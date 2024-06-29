@@ -3,5 +3,5 @@
  */
 
 export const Accordion = () => {
-  return <></>;
+  return <>Accordion</>;
 };
